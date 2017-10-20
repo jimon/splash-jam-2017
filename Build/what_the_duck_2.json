@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "what_the_duck_2.data.unityweb",
+"asmCodeUrl": "what_the_duck_2.asm.code.unityweb",
+"asmMemoryUrl": "what_the_duck_2.asm.memory.unityweb",
+"asmFrameworkUrl": "what_the_duck_2.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
